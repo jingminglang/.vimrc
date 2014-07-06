@@ -1,2 +1,1 @@
-my vim config
-test
+我的vim配置文件
